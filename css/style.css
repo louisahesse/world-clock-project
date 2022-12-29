@@ -1,12 +1,12 @@
 body {
-  background-color: #c7ceaf;
+  background-color: #fbc4ab;
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: #e7ebcf;
+  background-color: #fceae2;
   padding: 30px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
