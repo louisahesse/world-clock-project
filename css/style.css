@@ -1,11 +1,12 @@
 body {
-  background-color: #eee4e1;
+  background-color: #c7ceaf;
+  font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: white;
+  background-color: #e7ebcf;
   padding: 30px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
@@ -23,7 +24,7 @@ body {
 }
 
 h2 {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
   font-size: 20px;
 }
 
@@ -56,5 +57,6 @@ h1 {
 
 footer {
   text-align: center;
-  font-size: 20px;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.8);
 }
